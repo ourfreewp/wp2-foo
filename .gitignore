@@ -1,0 +1,28 @@
+# Composer
+/vendor/
+/composer.lock
+
+# Node
+/node_modules/
+/npm-debug.log
+/yarn-error.log
+
+# WordPress
+/wp-content/
+/wp-config.php
+
+# IDEs
+/.vscode/
+/.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Tests
+/phpunit.xml
+/phpunit.result.cache
+
+# Build
+/dist/
+/build/

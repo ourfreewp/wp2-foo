@@ -1,0 +1,12 @@
+{
+	"name": "wp2-component-assets",
+	"version": "0.1.0",
+	"description": "Front-end assets for WP2 Component Template",
+	"scripts": {
+		"build": "echo 'No build step defined yet.'",
+		"lint": "echo 'No lint step defined yet.'"
+	},
+	"devDependencies": {
+		"sass": "^1.69.0"
+	}
+}
